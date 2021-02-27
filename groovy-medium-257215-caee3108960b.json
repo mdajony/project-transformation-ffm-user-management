@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "techserve4u",
+  "private_key_id": "1cf770bd7768fc073052a64374c1e97c59fe7c04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKpR5PCGnxghoZ\n5eORO6CY+urwHvnx+5XjigNTHASp9GnLPnIBWyQQSOtSoOe1F//qedsLTjP+mVvj\nLvRarM20gPSKPg4a2HhgJj8D9sSu8noBsD9JFFHzOsT7fv/OWknc2d/PbUzVY8Nm\nhgoqPQ4/G6kCVOAxXa3xEINJVge453ptrEmokT1hdN7HlnLqBRofIfQeRu2D/Lz1\npEqdd9S4VWQ2mSE36XRrMOkVSiHJb2O7nPFs2gcv8dnFZhgjvP3/HP230AfPkO+D\nBItin++EvA367qT8RRNEkvicT94UZHuiHmnXDRX7VATcWnRKnIDQlz5pIcvUC2F3\ngg8ExcDFAgMBAAECggEAAWN7GcVf587W1nLClIdxJ4iKom1tPt5U4zEE1PrgwPhi\n3t4VQmiejo+tWyItTEqh5I2utae0yAEYMIOXxY+gaOT8Uqkvsrk6g/AnJ463P3qm\nYYtqDO+7IFyjURTdnwtJLR6qFQi1ntMMRFAqqCpFxiLD+EyJbRUsVgtMAa05qCec\nyNc4ZkUXHfdkP1YQVjApxyXjxvpNEvmw1ui/sltzIpWpdN2kK0sUS9ph6GzMC7Qo\nhO8vH7stZCqoacxRXvI/ZAYxFGktbeU+WSiQkD6iFhHb4/ShZ5AjpQ7CYYT7ENIZ\n3GS9Wryee3vtjzRWaoGKyFDqgML/Es+w2eaxeKkrUQKBgQDx8d9NDtRb49edywV7\nZBcoOg16UsxPJgaGVhzveul6XKGP+SbB6wwmGkW4R93Fvxrd+foMyoTnF6UN73Nf\nA/eIjHS66/GlVV2iLq2a/yWi83lR0wWYiGMD9fKLfYOQziPPWjdlUQIc/DjFgl9p\nHDOvAYyiC1iXVTS5HWfyaiskFQKBgQDWasqd+lHSx5LGrQ6QfElEbBYWBD/TjoCm\nrRCJAtW1Z3To+8mqQGtXABty2RZkx9m9VLxeoCpllmVDSUyNXV07hyHP98Ipz4/Y\nAKOsnSF3umIQG0MmFvCewKTU5ol2YjuItA9BP1MBrbAZy5MJLiX1kLKkJpYjE3iN\n4yBP/drl8QKBgG7jcXnq4w+elJMgmsmb7TUlrkmzKyrXfcQSMb7c8aeATxgilE3q\nga3w+qVkYtOgLBsy2BUGuPUFlEOXzKPuuIPgBBwryZwCTSDpDe5tJH3T43XKJtVr\nJR6KmfiutR8oK6d8bMlF4JcSTp7PixUstM9wAVm/o4HwrnJtdNfZKx6lAoGBAKsh\n8vOhvbrApOpDZ3N0bznYFsyduZ+NhisByEfCZnVxzELD65Ih9korAL1qfNAVHjlZ\nrzrLFOud3NaWYy4VDXucgCUvtt2OF12sLPZxNywLK4d1auO0vXnHggeWtLIy9xdF\nt0M5WnPlf78m1wUluxBC3AHd9kiqmraMR9bwYszRAoGAChAMzIQNT0IzV/EIMBpI\nDWVhC3QiDjtM4918c+JGSbwFkqWekicQeE9F6yiRPYFtMMHsvxja8Ztyd5NlEuk6\nbg4JuVfOpFjeRe4kAR4lo6BOst28awu+4jEItoOA1NR67idv3tt5wS79SiVao/ip\nHq2i/FjF3FzlXogKDb1BC9U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "field-force-app@techserve4u.iam.gserviceaccount.com",
+  "client_id": "111660162046334151858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/field-force-app%40techserve4u.iam.gserviceaccount.com"
+}
